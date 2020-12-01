@@ -2,7 +2,7 @@
 ## Annie Phan, Master in Data Science, Class of 2021
 
 
-# Content OVerview
+# Content Overview
 * [Introduction](#overview)
 * [Dataset Link](#datasetlink)
 * [Articles Consulted](#articlesconsulted)
